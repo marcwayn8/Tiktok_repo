@@ -1,5 +1,5 @@
 # Tiktok_repo
-#*Tiktok*
+*Tiktok*
 - make funny videos
 
 - socialize with others
